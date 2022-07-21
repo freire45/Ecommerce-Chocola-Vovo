@@ -1,0 +1,47 @@
+@media screen and (min-width: 0){
+    .inicio-pesquisa input{
+       display: none;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .inicio-pesquisa input{
+        display: block;
+        width: 250px;
+        height: 20px;
+        border-radius: 10px;
+        border: none;
+        border-style: none;
+        background-color: #dab8ae;
+        color: #20130f;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .inicio-pesquisa input:focus{
+        border: none;
+        border-style: none;
+        outline: 0;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .inicio-pesquisa input{
+        display: block;
+        width: 300px;
+        height: 30px;
+        border-radius: 10px;
+        border: none;
+        border-style: none;
+        background-color: #dab8ae;
+        color: #20130f;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .inicio-pesquisa input:focus{
+        border: none;
+        border-style: none;
+        outline: 0;
+    }
+}
+
+

@@ -1,0 +1,56 @@
+@media screen and (min-width: 0){
+    .inicio-login button{
+        background-color: #dab8ae;
+        border: solid #612112 2px;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #612112;
+        width: 100px;
+        height: 20px;
+    }
+
+    .inicio-login button:hover{
+        border: solid #dab8ae 2px;
+        background-color: #612112;
+        color: #dab8ae;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .inicio-login button{
+        background-color: #dab8ae;
+        border: solid #612112 2px;
+        font-size: 14px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #612112;
+        width: 120px;
+        height: 20px;
+    }
+
+    .inicio-login button:hover{
+        border: solid #dab8ae 2px;
+        background-color: #612112;
+        color: #dab8ae;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .inicio-login button{
+        background-color: #dab8ae;
+        border: solid #612112 2px;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #612112;
+        width: 150px;
+        height: 30px;
+    }
+
+    .inicio-login button:hover{
+        border: solid #dab8ae 2px;
+        background-color: #612112;
+        color: #dab8ae;
+    }
+}
