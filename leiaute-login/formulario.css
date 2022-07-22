@@ -1,0 +1,108 @@
+@media screen and (min-width: 0){
+    .login form p{
+        text-align: center;
+    }
+
+    .login form input{
+        width: 200px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 80px;
+    }
+
+    .login form input:focus{
+        outline: 0;
+    }
+
+    .login form button{
+        width: 208px;
+        height: 30px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+
+    .login form button:hover{
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        color: #dab8ae;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .login form p{
+        text-align: center;
+    }
+
+    .login form input{
+        width: 200px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 200px;
+    }
+
+    .login form input:focus{
+        outline: 0;
+    }
+
+    .login form button{
+        width: 208px;
+        height: 30px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 200px;
+        margin-top: 20px;
+    }
+
+    .login form button:hover{
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        color: #dab8ae;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .login form p{
+        text-align: center;
+    }
+
+    .login form input{
+        width: 200px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 200px;
+    }
+
+    .login form input:focus{
+        outline: 0;
+    }
+
+    .login form button{
+        width: 208px;
+        height: 30px;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        color: #20130f;
+        font-weight: bold;
+        margin-left: 200px;
+        margin-top: 20px;
+    }
+
+    .login form button:hover{
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        color: #dab8ae;
+    }
+
+}

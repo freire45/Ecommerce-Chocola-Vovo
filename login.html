@@ -4,8 +4,75 @@
     <head>
         <meta charset="utf-8">
         <title>Login - Chocolá Vovó</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="leiaute-inicio/reset.css">
+        <link rel="stylesheet" href="leiaute-inicio/corpo.css">
+        <link rel="stylesheet" href="leiaute-inicio/cabecalho/base.css">
+        <link rel="stylesheet" href="leiaute-inicio/cabecalho/pesquisa.css">
+        <link rel="stylesheet" href="leiaute-inicio/cabecalho/login.css">
+        <link rel="stylesheet" href="leiaute-inicio/rodape-contato/base.css">
+        <link rel="stylesheet" href="leiaute-inicio/rodape-contato/logo.css">
+        <link rel="stylesheet" href="leiaute-inicio/rodape-contato/texto.css">
+        <link rel="stylesheet" href="leiaute-inicio/rodape-contato/formulario.css">
+        <link rel="stylesheet" href="leiaute-inicio/rodape/base.css">
+        <link rel="stylesheet" href="leiaute-login/base.css">
+        <link rel="stylesheet" href="leiaute-login/titulo.css">
+        <link rel="stylesheet" href="leiaute-login/formulario.css">
     </head>
     <body>
+        <section class="inicio-pagina">
+
+            <section class="inicio-logo">
+                <img src="images/logo.png" alt="Logo chocolávovó">
+            </section>
+
+            <section class="inicio-pesquisa">
+                <input type="search" placeholder="O que deseja encontrar?">
+            </section>
+            
+            <section class="inicio-pesquisa-mobile">
+                <img src="images/pesquisa.png" alt="Pesquisa">
+            </section>
+
+        </section>
         
+        <section class="login">
+            <h2>Iniciar Sessão</h2>
+            <form>
+                <p>Email: </p>
+                <input type="email" required>
+                <p>Senha:</p>
+                <input type="password" required><br>
+                <button type="submit">Entrar</button>
+            </form>
+        </section>
+
+        <section class="rodape">
+            <section class="rodape-imagem">
+                <img src="images/logo.png" alt="Logo chocolávovó">
+            </section>
+            <section class="rodape-informacoes">
+                <a href="#">Quem Somos Nós</a><br>
+                <a href="#">Política de Privacidade</a><br>
+                <a href="#">Programa Fidelidade</a><br>
+                <a href="#">Nossas Lojas</a><br>
+                <a href="#">Quero Ser Franqueado</a><br>
+                <a href="#">Anuncios Aqui</a>
+            </section>
+            <section class="rodape-formulario">
+                <form>
+                    <h2>Fale Conosco</h2>
+                    <p>Nome</p>
+                    <input type="text" placeholder="Digite seu nome completo"><br>
+                    <textarea col="75" rows="5" placeholder="Escreva Sua Mensagem..."></textarea><br>
+                    <button type="submit">Enviar Mensagem</button>
+                </form>
+            </section>
+        </section>
+        <footer class="produtor">
+            <p>Desenvolvido por Erick Leite Freire</p>
+            <p>2022</p>
+        </footer>
+
     </body>
 </html>
