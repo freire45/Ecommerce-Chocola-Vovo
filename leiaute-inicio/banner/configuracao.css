@@ -1,0 +1,116 @@
+@media screen and (min-width: 0){
+    .banner h2{
+        font-size: 18px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 50px;
+        margin-bottom: 10px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner strong{
+        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 120px;
+        margin-bottom: 10px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner button{
+        width: 125px;
+        height: 40px;
+        margin-top: 10px;
+        margin-left: 10px;
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;      
+        font-size: 12px;  
+    }
+    .banner button:hover{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .banner h2{
+        font-size: 52px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 120px;
+        margin-bottom: 20px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner strong{
+        font-size: 22px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 120px;
+        margin-bottom: 50px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner button{
+        width: 150px;
+        height: 50px;
+        margin-top: 20px;
+        margin-left: 10px;
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;        
+    }
+    .banner button:hover{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .banner h2{
+        font-size: 52px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 120px;
+        margin-bottom: 20px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner strong{
+        font-size: 22px;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-left: 10px;
+        padding-top: 120px;
+        margin-bottom: 50px;
+        text-shadow: #000 2px 3px 2px;
+    }
+
+    .banner button{
+        width: 150px;
+        height: 50px;
+        margin-top: 20px;
+        margin-left: 10px;
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;        
+    }
+    .banner button:hover{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+    }
+}
+
+

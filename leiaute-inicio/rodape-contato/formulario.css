@@ -1,0 +1,186 @@
+@media screen and (min-width: 0){
+    .rodape-formulario{
+        color: #20130f;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+    
+    .rodape-formulario form h2{
+        font-weight: bold; 
+    }
+
+    .rodape-formulario form input{
+        width: 320px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none;        
+    }
+
+    .rodape-formulario form input:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px;        
+    }
+
+    .rodape-formulario form textarea{
+        width: 320px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none; 
+        resize: none;
+    }
+    .rodape-formulario form textarea:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px; 
+    }
+
+    .rodape-formulario form button{
+        width: 200px;
+        height: 25px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: solid #FFFFFF 2px;
+        resize: none;
+    }
+
+    .rodape-formulario form button:hover{
+        border: solid #20130f 2px;
+        background-color: #FFFFFF;
+        color: #20130f;
+    }
+
+}
+
+@media screen and (min-width: 768px){
+    .rodape-formulario{
+        color: #20130f;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+    
+    .rodape-formulario form h2{
+        font-weight: bold; 
+    }
+
+    .rodape-formulario form input{
+        width: 400px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none;        
+    }
+
+    .rodape-formulario form input:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px;        
+    }
+
+    .rodape-formulario form textarea{
+        width: 400px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none; 
+        resize: none;
+    }
+    .rodape-formulario form textarea:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px; 
+    }
+
+    .rodape-formulario form button{
+        width: 200px;
+        height: 25px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: solid #FFFFFF 2px;
+        resize: none;
+    }
+
+    .rodape-formulario form button:hover{
+        border: solid #20130f 2px;
+        background-color: #FFFFFF;
+        color: #20130f;
+    }
+
+}
+
+@media screen and (min-width: 992px){
+
+    .rodape-formulario{
+        color: #20130f;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        line-height: 20px;
+    }
+    
+    .rodape-formulario form h2{
+        font-weight: bold; 
+    }
+
+    .rodape-formulario form input{
+        width: 400px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none;        
+    }
+
+    .rodape-formulario form input:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px;        
+    }
+
+    .rodape-formulario form textarea{
+        width: 400px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: none; 
+        resize: none;
+    }
+    .rodape-formulario form textarea:focus{
+        outline: 0;
+        border-bottom: solid #612112 2px; 
+    }
+
+    .rodape-formulario form button{
+        width: 200px;
+        height: 25px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        background-color: #20130f;
+        color: #FFFFFF;
+        font-weight: bold;
+        border: solid #FFFFFF 2px;
+        resize: none;
+    }
+
+    .rodape-formulario form button:hover{
+        border: solid #20130f 2px;
+        background-color: #FFFFFF;
+        color: #20130f;
+    }
+
+}

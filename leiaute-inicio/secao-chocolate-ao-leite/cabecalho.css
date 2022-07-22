@@ -1,0 +1,59 @@
+@media screen and (min-width: 0){
+    .chocolate-ao-leite-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-ao-leite-titulo h2{
+        color: gold;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .chocolate-ao-leite-titulo a{
+        color: gold;
+        font-size: 12px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .chocolate-ao-leite-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-ao-leite-titulo h2{
+        color: gold;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .chocolate-ao-leite-titulo a{
+        color: gold;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .chocolate-ao-leite-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-ao-leite-titulo h2{
+        color: gold;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .chocolate-ao-leite-titulo a{
+        color: gold;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}

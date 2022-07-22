@@ -1,0 +1,17 @@
+@media screen and (min-width: 0){
+    .chocolate-premium{
+        margin-top: 15px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .chocolate-premium{
+        margin-top: 35px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .chocolate-premium{
+        margin-top: 50px;
+    }
+}

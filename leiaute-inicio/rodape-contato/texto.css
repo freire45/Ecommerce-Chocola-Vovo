@@ -1,0 +1,39 @@
+@media screen and (min-width: 0){
+    .rodape-informacoes{
+        margin-top: 5px;
+        line-height: 25px;
+    }
+
+    .rodape-informacoes a{
+        margin-left: 40px;
+        text-decoration: none;
+        color: #20130f;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .rodape-informacoes{
+        margin-top: 15px;
+        line-height: 25px;
+    }
+
+    .rodape-informacoes a{
+        margin-left: 0px;
+        text-decoration: none;
+        color: #20130f;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .rodape-informacoes{
+        margin-top: 30px;
+        line-height: 25px;
+    }
+
+    .rodape-informacoes a{
+        margin-left: 0px;
+        text-decoration: none;
+        color: #20130f;
+    }
+}
+

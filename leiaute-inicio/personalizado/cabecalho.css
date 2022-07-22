@@ -1,0 +1,59 @@
+@media screen and (min-width: 0){
+    .chocolate-personalizado-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-personalizado-titulo h2{
+        color: gold;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .chocolate-personalizado-titulo a{
+        color: gold;
+        font-size: 12px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .chocolate-personalizado-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-personalizado-titulo h2{
+        color: gold;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .chocolate-personalizado-titulo a{
+        color: gold;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .chocolate-personalizado-titulo{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+    }
+    .chocolate-personalizado-titulo h2{
+        color: gold;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .chocolate-personalizado-titulo a{
+        color: gold;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+}

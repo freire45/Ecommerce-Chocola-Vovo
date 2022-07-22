@@ -1,0 +1,24 @@
+@media screen and (min-width: 0){
+    .rodape-imagem img{
+        width: 150px;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .rodape-imagem img{
+        width: 150px;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .rodape-imagem img{
+        width: 150px;
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+}
+
