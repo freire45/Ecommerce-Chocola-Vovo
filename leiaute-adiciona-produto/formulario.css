@@ -1,0 +1,154 @@
+@media screen and (min-width: 0){
+    .adiciona-produto form p{
+        color: gold;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input{
+        width: 360px;
+        margin-left: 1%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input:focus{
+        outline: none;
+    }
+
+    .adiciona-produto form textarea{
+        width: 360px;
+        margin-left: 1%;
+        margin-bottom: 2%;
+        height: 75px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+        resize: none;
+    }
+
+    .adiciona-produto form button{
+        width: 368px;
+        margin-left: 1%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+    .adiciona-produto form button:hover{
+        background-color: #20130f;
+        color: #dab8ae;
+        border: solid #dab8ae 2px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .adiciona-produto form p{
+        color: gold;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input{
+        width: 400px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input:focus{
+        outline: none;
+    }
+
+    .adiciona-produto form textarea{
+        width: 400px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 75px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+        resize: none;
+    }
+
+    .adiciona-produto form button{
+        width: 408px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+    .adiciona-produto form button:hover{
+        background-color: #20130f;
+        color: #dab8ae;
+        border: solid #dab8ae 2px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .adiciona-produto form p{
+        color: gold;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input{
+        width: 400px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+
+    .adiciona-produto form input:focus{
+        outline: none;
+    }
+
+    .adiciona-produto form textarea{
+        width: 400px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 75px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+        resize: none;
+    }
+
+    .adiciona-produto form button{
+        width: 408px;
+        margin-left: 20%;
+        margin-bottom: 2%;
+        height: 25px;
+        background-color: #dab8ae;
+        color: #20130f;
+        border: solid #dab8ae 2px;
+        font-weight: bold;
+    }
+    .adiciona-produto form button:hover{
+        background-color: #20130f;
+        color: #dab8ae;
+        border: solid #dab8ae 2px;
+    }
+
+
+}
