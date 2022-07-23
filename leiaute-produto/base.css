@@ -1,0 +1,41 @@
+@media screen and (min-width: 0){
+    .titulo-botao{
+        align-items: center;
+    }
+
+    .produtos{
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media screen and (min-width: 768px){
+    .titulo-botao{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .produtos{
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+@media screen and (min-width: 992px){
+    .titulo-botao{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .produtos{
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

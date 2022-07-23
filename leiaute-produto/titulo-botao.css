@@ -1,0 +1,77 @@
+@media screen and (min-width: 0){
+    .titulo-botao h2{
+        color: gold;
+        font-weight: bold;
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .titulo-botao button{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        font-weight: bold;
+        width: 200px;
+        height: 50px;
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+
+    .titulo-botao button:hover{
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .titulo-botao h2{
+        color: gold;
+        font-weight: bold;
+        font-size: 32px;        
+        text-align: left;
+    }
+
+    .titulo-botao button{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        font-weight: bold;
+        width: 200px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .titulo-botao button:hover{
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .titulo-botao h2{
+        color: gold;
+        font-weight: bold;
+        font-size: 32px;
+        text-align: left;
+    }
+
+    .titulo-botao button{
+        color: #20130f;
+        background-color: #dab8ae;
+        border: solid #20130f 2px;
+        font-weight: bold;
+        width: 200px;
+        height: 50px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .titulo-botao button:hover{
+        color: #dab8ae;
+        background-color: #20130f;
+        border: solid #dab8ae 2px;
+    }
+}
