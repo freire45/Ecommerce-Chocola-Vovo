@@ -42,7 +42,7 @@
             </section>
 
             <section class="inicio-login">
-                <button type="button">Login</button>
+                <button id="botao-login" type="button">Login</button>
             </section>
             
             <section class="inicio-pesquisa-mobile">
@@ -53,7 +53,7 @@
         <section class="banner">
             <h2>Dezembro Promocional</h2>
             <strong>Produtos Selecionados com 35% de desconto</strong><br>
-            <button type="button">Ver Chocolates</button>
+            <button id="ver-chocolates" type="button">Ver Chocolates</button>
         </section>
 
         <section class="chocolate-ao-leite">
@@ -106,7 +106,7 @@
             </section>
         </section>
 
-        <section class="chocolate-personalizado">
+        <section id="personalizado" class="chocolate-personalizado">
             <section class="chocolate-personalizado-titulo">
                 <h2>Chocolate Personalizado</h2>
                 <a href="#">Ver tudo -►</a>
@@ -221,8 +221,8 @@
                 <form>
                     <h2>Fale Conosco</h2>
                     <p>Nome</p>
-                    <input type="text" placeholder="Digite seu nome completo"><br>
-                    <textarea col="75" rows="5" placeholder="Escreva Sua Mensagem..."></textarea><br>
+                    <input type="text" placeholder="Digite seu nome completo" maxlength="40" required><br>
+                    <textarea col="75" rows="5" placeholder="Escreva Sua Mensagem..." maxlength="120" required></textarea><br>
                     <button type="submit">Enviar Mensagem</button>
                 </form>
             </section>
@@ -231,5 +231,7 @@
             <p>Desenvolvido por Erick Leite Freire</p>
             <p>2022</p>
         </footer>
+        <script src="codigos/login.js"></script>
+        <script src="codigos/ver-chocolates.js"></script>
     </body>
 </html>
